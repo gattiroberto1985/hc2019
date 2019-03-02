@@ -1,2 +1,1 @@
-# hc2019
-hashcode 2019
+# HashCode 2019
